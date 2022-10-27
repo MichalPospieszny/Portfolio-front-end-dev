@@ -4,26 +4,26 @@
 
 ### Podgląd projektów
 
-#### Magic 8ball
+#### 🎱 Magic 8ball
 
 <img src="assets/Magic 8ball.gif" width="900">
 
-#### Kalkulator Rachunków
+#### 🖩 Kalkulator Rachunków
 
 <img src="assets/kalkulator rachunku.gif" width="900">
 
-#### Moje Notatki
+#### 📒 Moje Notatki
 
 <img src="assets/MojeNotatki.gif" width="900">
 
-#### Stoper ze zmianą kolorów
+#### ⏱ Stoper RGB 🔴🟢🔵
 
 <img src="assets/stoper.gif" width="900">
 
-#### Walidator formularza
+#### ☑ Walidator formularza
 
 <img src="assets/walidator.gif" width="900">
 
-#### wyszukiwarka
+#### 🔍 Wyszukiwarka
 
 <img src="assets/drinksearch.gif" width="900">
