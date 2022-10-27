@@ -16,7 +16,7 @@
 
 <img src="assets/MojeNotatki.gif" width="900">
 
-#### ⏱ Stoper RGB 🔴🟢🔵
+#### ⏱ Stoper RGB 🔴🔵🟢
 
 <img src="assets/stoper.gif" width="900">
 
